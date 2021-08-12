@@ -1,0 +1,2 @@
+# AVERAGEPRO
+Project function test: The current interface is to form an array based on multiple values entered and calculate the average value. It is suitable for the functions of calculating the average value such as the settlement of Apple's salary and average living expenses. Later period: More content will be added, and updated algorithm logic will be added to cope with different computing environments.
